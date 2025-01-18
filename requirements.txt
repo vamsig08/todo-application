@@ -1,0 +1,5 @@
+flask==2.3.2
+
+
+#To enter container for debugging:
+#docker exec -it <container-id> /bin/sh

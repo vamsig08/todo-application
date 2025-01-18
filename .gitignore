@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Docker-related
+*.log
+.dockerignore
+
+# OS files
+.DS_Store
